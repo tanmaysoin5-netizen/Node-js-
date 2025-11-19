@@ -1,0 +1,15 @@
+{
+  "name": "middleware-demo",
+  "version": "1.0.0",
+  "description": "Practical-12",
+  "main": "index.js",
+  "scripts": {
+    "test": "node middleware-demo.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
