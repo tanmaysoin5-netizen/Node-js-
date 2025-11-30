@@ -1,0 +1,39 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+  margin-top: 30px;
+  font-family: Arial, sans-serif;
+}
+
+.student-card {
+  border: 1px solid #000;
+  padding: 10px;
+  margin: 10px auto;
+  width: 250px;
+  border-radius: 8px;
+  text-align: left;
+}
+
+.student-card h3 {
+  margin: 0 0 5px 0;
+}
+
+.student-card p {
+  margin: 3px 0;
+}
+
+.simple-form {
+  margin-top: 30px;
+}
+
+.simple-form input {
+  padding: 8px;
+  width: 200px;
+}
+
+.simple-form button {
+  padding: 8px 16px;
+  margin-left: 10px;
+  cursor: pointer;
+}
